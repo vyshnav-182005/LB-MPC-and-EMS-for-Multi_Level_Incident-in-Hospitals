@@ -1,5 +1,6 @@
 # 🏥 Learning-Based Model Predictive Control for Multi-Room Energy Incident Management in Smart Hospitals Using Cloud Services  
 
+### 📘 Course: 23AID304 – High Performance Computing
 ### 📘 Course: 23AID305 – Control System  
 
 **👨‍💻 Team 9**  
